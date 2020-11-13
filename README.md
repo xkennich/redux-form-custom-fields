@@ -1,2 +1,2 @@
-### Redux-Form Custom fields in Material-ui
+### Redux-Form Material-ui Custom fields
 
